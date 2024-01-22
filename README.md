@@ -49,6 +49,7 @@ Se pide específicamente el uso de [React](https://facebook.github.io/react/). v
 4. Tiempo en realizar la tarea
 5. Uso de custom Hooks
 6. Uso de Ant Design como librería de estilos
+7. Control de excepciones en las llamadas a los servicios (mensaje acorde al error)
 
 ### Plazos y envío
 
