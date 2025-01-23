@@ -54,3 +54,27 @@ Se pide específicamente el uso de [React](https://facebook.github.io/react/). v
 ### Plazos y envío
 
 Esta prueba considera un plazo máximo que podrás encontrar en el correo de contacto, y es además un criterio de evaluación, por lo que se espera una buen balance entre calidad y el tiempo usado. Una vez terminada la tarea, debes enviar un pull request al repositorio con tu nombre completo, correo y cargo al que postulas, además de notificar por correo que has finalizado la prueba. Cabe destacar, que todos los PRs serán rechazados una vez que se revisen, lo que no significa que tu proceso haya sido descartado, es sólo parte del procedimiento una vez que tu solución es revisada.
+
+### Metodo de ejecución
+
+Se utilizo la libreria yarn, para ejecutar hay que ejecutar los siguientes comandos:
+
+1. Para instalar yarn, ejecuta lo siguiente:
+    - npm install --global yarn
+
+2. Ejecutar el siguiente comando para crear vite:
+    - yarn create vite
+    - Elige React y Typescript
+
+3. Ejecutar el siguiente comando para instalar las dependencias:
+    - yarn
+
+1. Para levantar el UI del ejercicio, ejecuta lo siguiente:
+    - "yarn start-server" o "node server.js"
+    - URI del ambiente:
+        - http://localhost:5173/
+
+2. Para levantar el UI del ejercicio, ejecuta lo siguiente:
+    - yarn dev
+    - URI del ambiente:
+        - http://localhost:9000
